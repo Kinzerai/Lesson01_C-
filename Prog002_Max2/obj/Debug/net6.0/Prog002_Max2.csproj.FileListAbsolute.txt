@@ -1,0 +1,16 @@
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/bin/Debug/net6.0/Prog002_Max2
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/bin/Debug/net6.0/Prog002_Max2.deps.json
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/bin/Debug/net6.0/Prog002_Max2.runtimeconfig.json
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/bin/Debug/net6.0/Prog002_Max2.dll
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/bin/Debug/net6.0/ref/Prog002_Max2.dll
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/bin/Debug/net6.0/Prog002_Max2.pdb
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/obj/Debug/net6.0/Prog002_Max2.GlobalUsings.g.cs
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/obj/Debug/net6.0/Prog002_Max2.csproj.AssemblyReference.cache
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/obj/Debug/net6.0/Prog002_Max2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/obj/Debug/net6.0/Prog002_Max2.AssemblyInfoInputs.cache
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/obj/Debug/net6.0/Prog002_Max2.AssemblyInfo.cs
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/obj/Debug/net6.0/Prog002_Max2.csproj.CoreCompileInputs.cache
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/obj/Debug/net6.0/Prog002_Max2.dll
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/obj/Debug/net6.0/ref/Prog002_Max2.dll
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/obj/Debug/net6.0/Prog002_Max2.pdb
+/Users/air0312/Desktop/C# lessons/Prog002_Max2/obj/Debug/net6.0/Prog002_Max2.genruntimeconfig.cache

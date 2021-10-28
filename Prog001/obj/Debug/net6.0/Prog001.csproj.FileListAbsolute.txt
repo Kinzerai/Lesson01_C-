@@ -1,0 +1,16 @@
+/Users/air0312/Desktop/C# lessons/Prog001/bin/Debug/net6.0/Prog001
+/Users/air0312/Desktop/C# lessons/Prog001/bin/Debug/net6.0/Prog001.deps.json
+/Users/air0312/Desktop/C# lessons/Prog001/bin/Debug/net6.0/Prog001.runtimeconfig.json
+/Users/air0312/Desktop/C# lessons/Prog001/bin/Debug/net6.0/Prog001.dll
+/Users/air0312/Desktop/C# lessons/Prog001/bin/Debug/net6.0/ref/Prog001.dll
+/Users/air0312/Desktop/C# lessons/Prog001/bin/Debug/net6.0/Prog001.pdb
+/Users/air0312/Desktop/C# lessons/Prog001/obj/Debug/net6.0/Prog001.GlobalUsings.g.cs
+/Users/air0312/Desktop/C# lessons/Prog001/obj/Debug/net6.0/Prog001.csproj.AssemblyReference.cache
+/Users/air0312/Desktop/C# lessons/Prog001/obj/Debug/net6.0/Prog001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/air0312/Desktop/C# lessons/Prog001/obj/Debug/net6.0/Prog001.AssemblyInfoInputs.cache
+/Users/air0312/Desktop/C# lessons/Prog001/obj/Debug/net6.0/Prog001.AssemblyInfo.cs
+/Users/air0312/Desktop/C# lessons/Prog001/obj/Debug/net6.0/Prog001.csproj.CoreCompileInputs.cache
+/Users/air0312/Desktop/C# lessons/Prog001/obj/Debug/net6.0/Prog001.dll
+/Users/air0312/Desktop/C# lessons/Prog001/obj/Debug/net6.0/ref/Prog001.dll
+/Users/air0312/Desktop/C# lessons/Prog001/obj/Debug/net6.0/Prog001.pdb
+/Users/air0312/Desktop/C# lessons/Prog001/obj/Debug/net6.0/Prog001.genruntimeconfig.cache

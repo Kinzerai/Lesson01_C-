@@ -1,0 +1,16 @@
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/bin/Debug/net6.0/Prog003_Sum1_15
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/bin/Debug/net6.0/Prog003_Sum1_15.deps.json
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/bin/Debug/net6.0/Prog003_Sum1_15.runtimeconfig.json
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/bin/Debug/net6.0/Prog003_Sum1_15.dll
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/bin/Debug/net6.0/ref/Prog003_Sum1_15.dll
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/bin/Debug/net6.0/Prog003_Sum1_15.pdb
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/obj/Debug/net6.0/Prog003_Sum1_15.GlobalUsings.g.cs
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/obj/Debug/net6.0/Prog003_Sum1_15.csproj.AssemblyReference.cache
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/obj/Debug/net6.0/Prog003_Sum1_15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/obj/Debug/net6.0/Prog003_Sum1_15.AssemblyInfoInputs.cache
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/obj/Debug/net6.0/Prog003_Sum1_15.AssemblyInfo.cs
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/obj/Debug/net6.0/Prog003_Sum1_15.csproj.CoreCompileInputs.cache
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/obj/Debug/net6.0/Prog003_Sum1_15.dll
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/obj/Debug/net6.0/ref/Prog003_Sum1_15.dll
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/obj/Debug/net6.0/Prog003_Sum1_15.pdb
+/Users/air0312/Desktop/C# lessons/Prog003_Sum1_15/obj/Debug/net6.0/Prog003_Sum1_15.genruntimeconfig.cache
